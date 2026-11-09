@@ -173,7 +173,7 @@
                                  <rowConstraints><RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" /></rowConstraints>
                                  <children>
                                     <!-- CheckBox Vacuna Gato -->
-                                    <CheckBox fx:id="chkVacunaGato" mnemonicParsing="false" text="Vacunado" GridPane.columnIndex="1">
+                                    <CheckBox fx:id="chkVacunaGato" mnemonicParsing="false" text="Vive en exterior" GridPane.columnIndex="1">
                                        <font><Font name="Franklin Gothic Demi" size="14.0" /></font>
                                        <cursor><Cursor fx:constant="HAND" /></cursor>
                                     </CheckBox>
